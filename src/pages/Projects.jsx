@@ -117,7 +117,7 @@ const Projects = () => {
     {
       title: "Smart ParkFinder",
       category: "Frontend",
-      tags: ["React", "API Integration", "Responsive UI"],
+      tags: ["MongoDB", "Express.js", "React.js", "Node.js"],
       image:
       "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?q=80&w=1600&auto=format&fit=crop",
       live: "#",
