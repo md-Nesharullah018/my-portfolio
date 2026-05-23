@@ -115,7 +115,7 @@ const Projects = () => {
       github: "#",
     },
     {
-      title: "Movie App",
+      title: "Smart ParkFinder",
       category: "Frontend",
       tags: ["React", "API Integration", "Responsive UI"],
       image:
