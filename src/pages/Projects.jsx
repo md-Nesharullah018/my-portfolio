@@ -111,17 +111,18 @@ const Projects = () => {
       tags: ["Next.js", "Chart.js", "Tailwind"],
       image:
       "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop",
-      live: "#",
-      github: "#",
+      live: "https://vault-pro-ten.vercel.app/dashboard",
+      github: "https://github.com/md-Nesharullah018/Vault-Pro.git",
     },
     {
-      title: "Smart ParkFinder",
+      title: "Threat Guard Cybersecurity Threat Detection System ",
       category: "Frontend",
       tags: ["MongoDB", "Express.js", "React.js", "Node.js"],
       image:
-      "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?q=80&w=1600&auto=format&fit=crop",
-      live: "#",
-      github: "#",
+      "https://primathon.in/blog/wp-content/uploads/2024/03/AI-Cybersecurity-Leveraging-Artificial-Intelligence-for-Enhanced-Cyber-Safety.png",
+      live: "https://netra-secure-ai-tau.vercel.app/",
+      github: "https://github.com/md-Nesharullah018/NetraSecure-AI.git",
+      //npm install motion-utils
     },
   ];
 

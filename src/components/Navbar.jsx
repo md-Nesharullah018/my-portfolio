@@ -69,7 +69,7 @@ const Navbar = () => {
           <motion.a
             whileHover={{ scale: 1.05, boxShadow: "0 0 25px rgba(234,88,12,0.4)" }}
             whileTap={{ scale: 0.95 }}
-            href="/Md Neshar 20-05-2026.pdf"
+            href="/Md_Neshar 25-06-2026.pdf"
             download
             className="hidden sm:block px-6 py-2.5 bg-white text-black text-[11px] font-black uppercase tracking-tighter rounded-full transition-all"
           >
@@ -116,7 +116,7 @@ const Navbar = () => {
                initial={{ opacity: 0 }}
                animate={{ opacity: 1 }}
                transition={{ delay: 0.5 }}
-               href="/md-nesharullah.pdf"
+               href="/Md_Neshar 25-06-2026.pdf"
                className="mt-10 px-10 py-4 bg-orange-600 text-white rounded-2xl font-black uppercase tracking-widest"
              >
                Download CV
