@@ -93,8 +93,8 @@ const Projects = () => {
       tags: ["Node.js", "Express.js", "React.js", "MongoDB", "Tailwind CSS"],
       image:
       "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?q=80&w=1600&auto=format&fit=crop",
-      live: "https://control-desk-frontend.vercel.app/login",
-      github: "https://github.com/md-Nesharullah018/control-desk.git",
+      live: "https://control-desk-woad.vercel.app",
+      github: "https://github.com/md-Nesharullah018/controlDesk.git",
     },
     {
       title: "Employee Task Manager",
@@ -122,7 +122,7 @@ const Projects = () => {
       "https://primathon.in/blog/wp-content/uploads/2024/03/AI-Cybersecurity-Leveraging-Artificial-Intelligence-for-Enhanced-Cyber-Safety.png",
       live: "https://netra-secure-ai-tau.vercel.app/",
       github: "https://github.com/md-Nesharullah018/NetraSecure-AI.git",
-      //npm install motion-utils
+     
     },
   ];
 
